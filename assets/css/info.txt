@@ -1,0 +1,27 @@
+<!-- OLD COLORS -->
+yellow: 	#fff666
+red:		#ff666f
+teal (?):	#66fff6
+blue (?):	#666fff
+dark grey:	#333333
+
+
+<!-- SIZE OF 3D GIFS -->
+W: 480 px
+H: 812 px
+
+
+<!--  ********** CTA SECTION ********** -->		
+<div id="cta">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-8 col-md-offset-2 centered">
+				<p>PRE-ORDER OUR BUNDLE</p>
+			</div>
+		</div><!--/row -->
+	</div><!--/container -->
+</div><!--/CTA -->
+
+
+<!-- SUPERSCRIPT FOR (TM) -->
+<span class="sup">&trade;</span>
